@@ -3,55 +3,61 @@ module.exports.getMessages = () => {
   // define events database
   const events = [
     {
-      'date': '2018-12-12T17:30:00.000',
+      'date': '2019-11-13T17:30:00.000',
       'reminders': [0, 3, 7],
       'topic': 'arn:aws:sns:us-east-1:036986015377:lugbz_sms',
       'title': 'LUGBZ desk in Meran'
     },
     {
-      'date': '2019-01-09T17:30:00.000',
+      'date': '2019-12-11T17:30:00.000',
       'reminders': [0, 3, 7],
       'topic': 'arn:aws:sns:us-east-1:036986015377:lugbz_sms',
       'title': 'LUGBZ desk in Meran'
     },
     {
-      'date': '2019-02-13T17:30:00.000',
+      'date': '2020-01-08T17:30:00.000',
       'reminders': [0, 3, 7],
       'topic': 'arn:aws:sns:us-east-1:036986015377:lugbz_sms',
       'title': 'LUGBZ desk in Meran'
     },
     {
-      'date': '2019-03-13T17:30:00.000',
+      'date': '2020-02-12T17:30:00.000',
       'reminders': [0, 3, 7],
       'topic': 'arn:aws:sns:us-east-1:036986015377:lugbz_sms',
       'title': 'LUGBZ desk in Meran'
     },
     {
-      'date': '2019-04-10T17:30:00.000',
+      'date': '2020-03-11T17:30:00.000',
       'reminders': [0, 3, 7],
       'topic': 'arn:aws:sns:us-east-1:036986015377:lugbz_sms',
       'title': 'LUGBZ desk in Meran'
     },
     {
-      'date': '2019-05-08T17:30:00.000',
+      'date': '2020-04-08T17:30:00.000',
       'reminders': [0, 3, 7],
       'topic': 'arn:aws:sns:us-east-1:036986015377:lugbz_sms',
       'title': 'LUGBZ desk in Meran'
     },
     {
-      'date': '2019-06-12T17:30:00.000',
+      'date': '2020-05-13T17:30:00.000',
       'reminders': [0, 3, 7],
       'topic': 'arn:aws:sns:us-east-1:036986015377:lugbz_sms',
       'title': 'LUGBZ desk in Meran'
     },
     {
-      'date': '2019-07-10T17:30:00.000',
+      'date': '2020-06-10T17:30:00.000',
       'reminders': [0, 3, 7],
       'topic': 'arn:aws:sns:us-east-1:036986015377:lugbz_sms',
       'title': 'LUGBZ desk in Meran'
     },
     {
-      'date': '2019-09-11T17:30:00.000',
+      'date': '2020-07-08T17:30:00.000',
+      'reminders': [0, 3, 7],
+      'topic': 'arn:aws:sns:us-east-1:036986015377:lugbz_sms',
+      'title': 'LUGBZ desk in Meran'
+    },
+    {
+      'date': '2020-09-09T17:30:00.000',
       'reminders': [0, 3, 7],
       'topic': 'arn:aws:sns:us-east-1:036986015377:lugbz_sms',
       'title': 'LUGBZ desk in Meran'
